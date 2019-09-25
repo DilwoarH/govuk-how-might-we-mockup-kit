@@ -2,7 +2,14 @@
 
 This was inspired by https://www.flickr.com/photos/benterrett/14244061894 (https://github.com/benterrett)
 
+## Without arrows
+
 <img src="https://raw.githubusercontent.com/DilwoarH/govuk-how-might-we-mockup-kit/master/GOVUK%20How%20might%20we%20Mockup%20kit.png" width="100%">
+
+
+## With arrows
+
+<img src="https://raw.githubusercontent.com/DilwoarH/govuk-how-might-we-mockup-kit/master/GOVUK%20How%20might%20we%20Mockup%20kit%20%20-%20with%20arrows.png" width="100%">
 
 ## Figma
 <img src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?w=1340" width="100px">
