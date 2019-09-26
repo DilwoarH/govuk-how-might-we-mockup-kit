@@ -2,6 +2,11 @@
 
 This was inspired by https://www.flickr.com/photos/benterrett/14244061894 (https://github.com/benterrett)
 
+## Download printable versions
+[Download mockup with arrows [PDF]](https://github.com/DilwoarH/govuk-how-might-we-mockup-kit/raw/master/GOVUK%20How%20might%20we%20Mockup%20kit%20%20-%20with%20arrows.pdf)
+
+[Download mockup without arrows [PDF]](https://github.com/DilwoarH/govuk-how-might-we-mockup-kit/raw/master/GOVUK%20How%20might%20we%20Mockup%20kit.pdf)
+
 ## Without arrows
 
 <img src="https://raw.githubusercontent.com/DilwoarH/govuk-how-might-we-mockup-kit/master/GOVUK%20How%20might%20we%20Mockup%20kit.png" width="100%">
